@@ -1,0 +1,8 @@
+[12-Jul-2016 10:35:11 UTC] Помилка БД WordPress Duplicate entry 'video_more_id' for key 'option_name' для запиту INSERT INTO dsbt_options (`option_name`,`option_value`,`autoload`) VALUES ('video_more_id','90','yes') спричинена activate_plugin, do_action('activate_contus-video-gallery/hdflvvideoshare.php'), call_user_func_array, videogallery_install, createVGPluginPages
+[12-Jul-2016 13:08:28 UTC] PHP Fatal error:  Cannot redeclare get_categories() (previously declared in /var/www/develop.4trip.com.ua/wp-includes/category.php:26) in /var/www/develop.4trip.com.ua/wp-content/plugins/sp-news-and-widget/sp-news-and-widget.php on line 135
+[12-Jul-2016 13:26:06 UTC] PHP Fatal error:  Cannot redeclare class SP_News_thmb_Widget in /var/www/develop.4trip.com.ua/wp-content/plugins/sp-news-and-widget/widget_function.php on line 426
+[12-Jul-2016 17:56:03 UTC] PHP Warning:  Division by zero in /var/www/develop.4trip.com.ua/wp-content/plugins/photo-gallery/admin/views/BWGViewEditThumb.php on line 35
+[12-Jul-2016 17:56:03 UTC] PHP Warning:  Division by zero in /var/www/develop.4trip.com.ua/wp-content/plugins/photo-gallery/admin/views/BWGViewEditThumb.php on line 40
+[13-Jul-2016 11:56:58 UTC] PHP Warning:  Creating default object from empty value in /var/www/develop.4trip.com.ua/wp-content/plugins/modula-best-grid-gallery/lib/db-class.php on line 83
+[13-Jul-2016 11:56:59 UTC] PHP Warning:  Creating default object from empty value in /var/www/develop.4trip.com.ua/wp-content/plugins/modula-best-grid-gallery/lib/db-class.php on line 83
+[13-Jul-2016 13:50:33 UTC] PHP Fatal error:  Class 'WP_Widget_Recent_Posts' not found in /var/www/develop.4trip.com.ua/wp-includes/class-wp-widget-factory.php on line 57
